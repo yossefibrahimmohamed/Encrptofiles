@@ -18,6 +18,12 @@ To install the required library, use the following command:
 pip install pycryptodome
 ```
 
+Install it
+
+```bash
+git clone https://github.com/yossefibrahimmohamed/Encrptofiles
+```
+## Screen Shots
 
 Encrypt file
 ![image](https://github.com/user-attachments/assets/afa54ecd-ad27-41ee-9d08-618300f6ab80)
